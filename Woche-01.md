@@ -30,7 +30,7 @@ Bitte denken Sie daran, Ihre Lösungen rechtzeitig vor Ablauf der jeweiligen Fri
 
 Für jede der wöchentlichen Hausaufgaben gibt es maximal 10 Punkte. Um zur Prüfung zugelassen zu werden, müssen Sie 75% der Punkte über alle Übungen hinweg erreichen. 
 
-Die Prüfung wird dann in Form einer erweiterten Hausaufgabe stattfinden - Sie bekommen ein umfangreicheres Tool zu programmieren, das von der Art her den Übungsaufgaben ähnelt und ebenfalls über github classroom abgegeben wird.
+Die Prüfung wird dann in Form einer erweiterten Hausaufgabe stattfinden - Sie bekommen ein umfangreicheres Tool zu programmieren, das von der Art her den Übungsaufgaben ähnelt und ebenfalls über github classroom abgegeben wird. Zudem wird es eine Verständnisaufgabe zu beantworten geben, in der Sie ein bestimmtes Analyseergebnis diskutieren sollen.
 
 ## Mitarbeit am Skript
 
