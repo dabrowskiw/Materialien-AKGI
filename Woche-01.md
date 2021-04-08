@@ -24,6 +24,25 @@ Das Repository, das für die Aufgabe angelegt wird, können Sie dann lokal klone
 
 In den ersten Wochen, in denen wir Python üben, finden Sie drei Dateien in den Aufgaben-Repositories: skript.py, aufgaben.py und test_aufgaben.py. In skript.py sind die Grundlagen von Python aufeinander aufbauend erklärt, zwischendurch finden Sie Referenzen auf Aufgaben in der Form von ```# --- Aufgabe <Nummer>: <Thema> (siehe aufgaben.py) ---```. Einen entsprechend benannten Abschnitt mit vordefinierten Methodensignaturen und Aufgabenbeschreibungen finden Sie in aufgaben.py, wo Sie die entsprechenden Implementationen vornehmen sollen. In test_aufgaben.py finden Sie für jede Aufgabe einen Test, der auch automatisch ausgeführt wird, wenn Sie Ihren Code in das Reposiroty pushen (in IDEA über die Menüpunkte "Git->Commit" und dann "Git->Push"). Sie können die Tests entsprechend auch lokal ausführen, um zu sehen, ob Ihr Code funktioniert (in IDEA über Klick auf die grünen Pfeile neben den Methodensignaturen der Tests). Die Ergebnisse der Tests und entsprechend Ihre Punktzahl können Sie in github im Reiter "Actions" sehen.
 
-## Zulassungsvoraussetzungen für die Prüfung
+Bitte denken Sie daran, Ihre Lösungen rechtzeitig vor Ablauf der jeweiligen Frist zu pushen!
+
+## Prüfung und Zulassungsvoraussetzungen
 
 Für jede der wöchentlichen Hausaufgaben gibt es maximal 10 Punkte. Um zur Prüfung zugelassen zu werden, müssen Sie 75% der Punkte über alle Übungen hinweg erreichen. 
+
+Die Prüfung wird dann in Form einer erweiterten Hausaufgabe stattfinden - Sie bekommen ein umfangreicheres Tool zu programmieren, das von der Art her den Übungsaufgaben ähnelt und ebenfalls über github classroom abgegeben wird.
+
+## Mitarbeit am Skript
+
+Wie Sie sehen können, steht auch das Skript in github zur Verfügung. Wenn Sie Verbesserungsvorschläge haben oder Fehler finden, können Sie entweder einen issue aufmachen oder das Repository forken, die Verbesserung einführen, und einen pull request in dem Skript-Repository aufmachen. Damit üben Sie nicht nur die Arbeit mit github sondern tragen auch zu einer Verbesserung des Skriptes für die nächsten Semester bei. Entsprechend können Sie auf Ihre finale Zensur bis zu 5% Bonus bekommen: Für jeden pull request für das Skript, den ich annehme, bekommen Sie 2.5% Bonus, bis zu einem Maximum von insgesamt 5%.
+
+## Begleitmaterialien
+
+Zusätzlich zum Skript gibt es einige Lightboard-Videos, die als Begleitmaterial zur Verfügung gestellt werden. Diese werden, so vorhanden, in dem Skript verlinkt (und eventuell nachgetragen - es sind noch nicht alle gedreht, und aufgrund der sich verschärfenden Corona-Situation kann ich nicht garantieren, dass alle rechtzeitig fertig werden). In dem ersten Video geht es darum, [was wir in dieser Woche bezüglich NGS allgemein besprechen](https://mediathek.htw-berlin.de/video/Next-Generation-DNA-Sequencing/09488d7886091c17fc9c259cca9ea534). Dazu direkt eine Bemerkung: Bei den Längen habe ich mich ein wenig verhaspelt, die korrekten Genomlängen sind:
+
+ * Viren: 2 Kb - 1 Mb
+ * Bakterien: 500 Kb - 12 Mb
+ * Tiere: 10 Mb - 130 Gb
+ * Pflanzen: 60 Mb - 130 Gb
+
+
