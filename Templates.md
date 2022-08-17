@@ -1,6 +1,6 @@
 # Template-Repositories
 
-Hier finden Sie die Template-repositories (mit Beschreibung der fachlichen Hintergründe, Aufgabenstellungen und automatisierten Tests), aus denen Ihre repositories für die Hausaufgaben in github classroom geklont werden.
+Hier finden Sie die Template-repositories (mit Aufgabenstellungen und automatisierten Tests sowie wo nötig mit Beschreibung der fachlichen Hintergründe), aus denen Ihre repositories für die Hausaufgaben in github classroom geklont werden.
 
 ## Python-Grundlagen
 
