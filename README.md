@@ -1,4 +1,4 @@
-# Materialien-AKGI
+# Ausgewählte Kapitel der Gesundheitsinformatik
 
 In diesem Modul beschäftigen wir uns mit Next Generation Sequencing und der Auswertung der dabei entstehenden Daten, wobei die Implementation der Algorithmen in Python stattfindet. Kurz zusammengefasst: In den ersten Wochen werden wir uns auf der fachlichen Seite mit den molekularbiologischen Grundlagen auseinandersetzen und auf der Informatik-Seite Python üben. Danach schauen wir uns in der Vorlesung unterschiedliche Analysen von Genomdaten an und implementieren in der Übung die entsprechenden Algorithmen/Tools. Details zu den genauen Themen, die wir uns anschauen, gibt es in der nächsten Woche.
 
