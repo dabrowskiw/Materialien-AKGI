@@ -1,12 +1,6 @@
-# Woche 01
+# Allgemeine Informationen zum Modul
 
-Willkommen im Modul "Ausgewählte Kapitel der Gesundheitsinformatik"! In der ersten Woche reden wir über den allgemeinen Ablauf des Moduls - diese Informationen finden Sie hier verschriftlicht.
-
-## Thema
-
-In diesem Modul beschäftigen wir uns mit Next Generation Sequencing und der Auswertung der dabei entstehenden Daten, wobei die Implementation der Algorithmen in Python stattfindet. Kurz zusammengefasst: In den ersten Wochen werden wir uns auf der fachlichen Seite mit den molekularbiologischen Grundlagen auseinandersetzen und auf der Informatik-Seite Python üben. Danach schauen wir uns in der Vorlesung unterschiedliche Analysen von Genomdaten an und implementieren in der Übung die entsprechenden Algorithmen/Tools. Details zu den genauen Themen, die wir uns anschauen, gibt es in der nächsten Woche.
-
-## Allgemeiner Ablauf
+## Ablauf
 
 Jede Woche findet eine Online-Vorlesung statt. In dieser können im ersten Teil Fragen zum Inahlt der Übungsaufgaben gestellt werden, im zweiten Teil werden fachliche Hintergründe (Molekularbiologie, Algorithmen der Bioinformatik) vorgestellt und gemeinsam diskutiert.
 
